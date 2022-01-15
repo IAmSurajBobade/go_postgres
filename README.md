@@ -6,5 +6,5 @@
 
 ## Learnings
 
-- Working with postgresql
+- Working with postgresql hosted on remote URL
 - Basic CRUD operations
